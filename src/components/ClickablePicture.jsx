@@ -1,5 +1,5 @@
 // src/components/ClickablePicture.js
-import React, { useState } from "react";
+import { useState } from "react";
 
 const ClickablePicture = ({ img1, img2 }) => {
   const [image, setImage] = useState(img1);

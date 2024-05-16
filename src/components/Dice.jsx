@@ -1,5 +1,5 @@
 // src/components/Dice.js
-import React, { useState } from "react";
+import { useState } from "react";
 import diceEmpty from "../assets/images/dice-empty.png";
 import dice1 from "../assets/images/dice1.png";
 import dice2 from "../assets/images/dice2.png";

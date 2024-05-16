@@ -1,5 +1,5 @@
 // src/components/LikeButton.js
-import React, { useState } from "react";
+import { useState } from "react";
 
 const LikeButton = () => {
   const [likes, setLikes] = useState(0);
